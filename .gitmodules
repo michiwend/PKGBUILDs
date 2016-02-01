@@ -1,3 +1,4 @@
 [submodule "gnome-shell-extension-arch-update"]
 	path = gnome-shell-extension-arch-update
 	url = git@github.com:michiwend/gnome-shell-extension-arch-update.git
+	branch = master
