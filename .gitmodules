@@ -1,0 +1,3 @@
+[submodule "gnome-shell-extension-arch-update"]
+	path = gnome-shell-extension-arch-update
+	url = ./gnome-shell-extension-arch-update
